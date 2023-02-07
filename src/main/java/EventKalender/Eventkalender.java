@@ -85,4 +85,7 @@ public class Eventkalender {
 
     }
 
+    public ArrayList<Event> getEvents() {
+        return events;
+    }
 }
